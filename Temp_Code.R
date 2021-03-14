@@ -1,4 +1,4 @@
 install.packages('ISLR')
 library(ISLR)
-data1 = iris
-head(data1)
+testing.data = iris
+head(testing.data)
